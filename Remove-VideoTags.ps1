@@ -154,4 +154,4 @@ Function Remove-VideoTags {
 
 }
 
-Remove-VideoTags -VideoPath "c:\temp\mp4"  -UpdateTags 
+#Remove-VideoTags -VideoPath "c:\temp\mp4"  -UpdateTags 
